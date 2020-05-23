@@ -7,7 +7,7 @@
 #--------------------------------------------------------#
 info: |-
   #
-  #       VMware Cloud Assembly ABX Code Sample          
+  #       VMware Cloud Assembly Blueprint Code Sample          
   # 
   # This shows Cloud Assembly integration with AWS Auto-Scale functionality. 
   # Sets auto-scaling group for machines, which automatically increases or 
