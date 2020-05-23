@@ -1,1 +1,0 @@
-# Assembly---Blueprint---AWS-AutoScale
